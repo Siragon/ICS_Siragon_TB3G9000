@@ -1,0 +1,1 @@
+repo forall -c git checkout android-4.0.4_r2.1
